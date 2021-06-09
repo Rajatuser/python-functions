@@ -28,7 +28,7 @@ python program to create a function for calculating the fibonacci series between
  python program to create a basic shoping list: take the input of the item from the user and then removing the item from the list.
   
     ls=['Audi','Bugati','Ferari','Mercedes'] 
-    print("welcome to Auto motors\n Here is our model list")
+    print("welcome to Auto motors\n Here is our models list")
     print(ls)
     n=input("enter your choice:\n") 
     m=n.capitalize()
@@ -39,7 +39,7 @@ python program to create a function for calculating the fibonacci series between
     else:
        print(f"sorry {n} is not available at this time")
         
-    k=input("Want to shop agin,Press y for yes or n for no\n")
+    k=input("Want to shop again,Press y for yes or n for no\n")
     s=k.capitalize()
     if(s=='Y'):
       print("\n") 
@@ -57,7 +57,7 @@ python program to create a function for calculating the fibonacci series between
     else:
       print("invalid input")  
     
-    k=input("Want to shop agin,Press y for yes or n for no\n")
+    k=input("Want to shop again,Press y for yes or n for no\n")
     s=k.capitalize()
     if(s=='Y'):
        print("\n") 
@@ -75,7 +75,7 @@ python program to create a function for calculating the fibonacci series between
     else:
         print("invalid input")  
 
-    k=input("Want to shop agin,Press y for yes or n for no\n")
+    k=input("Want to shop again,Press y for yes or n for no\n")
     s=k.capitalize()
     if(s=='Y'):
        print("\n") 
